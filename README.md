@@ -57,12 +57,12 @@ Custom transformers created for:
 
 ---
 
-## 📂 Project Structure
-├── train.csv
-├── test.csv
-├── Titanic_Model.ipynb
-├── predictoins.csv
-└── README.md
+##  Project Structure
+-train.csv
+-test.csv
+-Titanic_Model.ipynb
+-predictoins.csv
+-README.md
 ---
 
 ## ✅ Results Sample
