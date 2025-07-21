@@ -46,7 +46,7 @@ Custom transformers created for:
 ### 5. **Prediction & Submission**
 - Preprocess `test.csv` data using the pipeline
 - Predict survival
-- Save results as `predictoins.csv`
+- Save results as `predictions.csv`
 
 ---
 
@@ -65,7 +65,7 @@ Custom transformers created for:
 -README.md
 ---
 
-## ✅ Results Sample
+##  Results Sample
 
 PassengerId	survived
 	892 |	0
